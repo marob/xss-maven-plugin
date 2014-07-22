@@ -1,0 +1,1 @@
+Maven plugin to check XSS security breaches in JSPs
